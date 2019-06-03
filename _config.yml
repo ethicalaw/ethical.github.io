@@ -1,1 +1,3 @@
 remote_theme: https://github.com/ColeTownsend/Balzac-for-Jekyll.git
+
+theme: jekyll-theme-dinky
